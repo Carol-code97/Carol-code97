@@ -1,6 +1,6 @@
 #  Caroliny Lucht Ost :woman_technologist:
 
-[![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroliny-l-8243921a7/)https://www.linkedin.com/in/caroliny-l-8243921a7/)
+[![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroliny-l-8243921a7/)](https://www.linkedin.com/in/caroliny-l-8243921a7/)
 
 ### Helloooo! I’m Carol and welcome to my profile.
 
