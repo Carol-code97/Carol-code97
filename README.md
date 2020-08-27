@@ -7,5 +7,3 @@
 🧑🏻‍🔬 Graduated in Biological Sciences.
 
 💻 Additional training as a Web Developer.
-
-❤️ Love for front-end development.
